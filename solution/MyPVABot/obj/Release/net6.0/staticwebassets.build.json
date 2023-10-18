@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "zwDVBNdQzMcyPfBPpyxhVmd17EOD5w8odQOI/u3DzXo=",
+  "Source": "MyPVABot",
+  "BasePath": "_content/MyPVABot",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "MyPVABot\\wwwroot",
+      "Source": "MyPVABot",
+      "ContentRoot": "C:\\Users\\FerranChopo\\source\\repos\\MyPVABot\\MyPVABot\\wwwroot\\",
+      "BasePath": "_content/MyPVABot",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\FerranChopo\\source\\repos\\MyPVABot\\MyPVABot\\wwwroot\\default.htm",
+      "SourceId": "MyPVABot",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\FerranChopo\\source\\repos\\MyPVABot\\MyPVABot\\wwwroot\\",
+      "BasePath": "_content/MyPVABot",
+      "RelativePath": "default.htm",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\default.htm"
+    }
+  ]
+}
